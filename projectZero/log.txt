@@ -1,0 +1,463 @@
+2019-10-30 11:47:00 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:47:05 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 11:47:14 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 11:47:14 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 11:47:14 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:47:14 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:49:02 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:49:06 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 11:49:20 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 11:49:20 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 11:49:20 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:49:20 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:50:04 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 11:50:11 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 11:50:11 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 11:50:11 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:50:11 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:57:17 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:57:20 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 11:57:31 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 11:57:31 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 11:57:31 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:57:31 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:58:33 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:58:36 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 11:59:41 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 11:59:41 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 11:59:41 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 11:59:41 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:05:15 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:05:47 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 12:05:53 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 12:05:53 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 12:05:53 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:05:53 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:09:12 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:09:15 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 12:09:26 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 12:09:26 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 12:09:26 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:09:26 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:11:23 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 12:11:35 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 12:11:35 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 12:11:35 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:11:35 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:12:52 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 12:12:59 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 12:12:59 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 12:12:59 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:12:59 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:21:31 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:21:37 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 12:21:46 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 12:21:46 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 12:21:46 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:21:46 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 12:31:03 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 13:17:19 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 13:17:25 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 13:17:32 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 13:17:33 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 13:17:33 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 13:17:33 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 13:17:33 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 13:21:47 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 13:21:47 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 14:10:16 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 14:10:27 DEBUG UserDaoSQL:105 - attempting to find user by credentials from DB
+2019-10-30 14:10:33 DEBUG UserDaoSQL:29 - attempting to find user by credentials from DB
+2019-10-30 14:10:34 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 14:10:34 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 14:10:36 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 14:10:42 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 14:10:43 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 14:10:43 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 14:10:43 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:10:43 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:10:47 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 14:10:47 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 14:10:53 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:10:53 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:12:50 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 14:12:50 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 14:12:55 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 14:13:10 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 14:13:10 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 14:13:10 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 14:13:10 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:13:10 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:49:17 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 14:49:25 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 14:49:25 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 14:49:26 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 14:49:26 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:49:26 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:49:32 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 14:49:32 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 14:49:38 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:49:38 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:50:48 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 14:50:48 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 14:50:52 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:50:52 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 14:51:18 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.WithdrawPrompt
+2019-10-30 14:51:18 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.WithdrawPrompt
+2019-10-30 15:25:33 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 15:25:33 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 15:25:42 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 15:25:42 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 15:25:45 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 15:25:57 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 15:25:58 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 15:25:58 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 15:25:58 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:25:58 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:26:05 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:26:05 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:26:23 DEBUG AccountDaoSQL:29 - attempting to find accounts from DB
+2019-10-30 15:26:24 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:26:24 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:27:41 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 15:27:41 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 15:27:45 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 15:27:51 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 15:27:52 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 15:27:52 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 15:27:52 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:27:52 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:27:55 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:27:55 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:27:58 DEBUG AccountDaoSQL:29 - attempting to find accounts from DB
+2019-10-30 15:27:59 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:27:59 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:31:43 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 15:31:43 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 15:31:50 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 15:32:10 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 15:32:11 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 15:32:11 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 15:32:11 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:32:11 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:32:30 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:32:30 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:32:34 DEBUG AccountDaoSQL:29 - attempting to find accounts from DB
+2019-10-30 15:32:34 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:32:34 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:34:03 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 15:34:03 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 15:34:07 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 15:34:14 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 15:34:15 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 15:34:15 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 15:34:15 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:34:15 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:34:17 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:34:17 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:34:21 DEBUG AccountDaoSQL:29 - attempting to find accounts from DB
+2019-10-30 15:34:21 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:34:21 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:38:21 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 15:38:21 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 15:38:25 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 15:38:34 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 15:38:35 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 15:38:35 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 15:38:35 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:38:35 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:38:37 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:38:37 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:38:42 DEBUG AccountDaoSQL:29 - attempting to find accounts from DB
+2019-10-30 15:38:43 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:38:43 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:41:52 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 15:41:52 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 15:41:55 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 15:42:00 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 15:42:01 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 15:42:01 INFO  LogInPrompt:35 - failed to login due to credentials
+2019-10-30 15:42:01 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 15:42:01 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 15:42:03 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 15:42:08 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 15:42:08 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 15:42:08 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 15:42:08 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:42:08 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:42:10 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:42:10 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:42:14 DEBUG AccountDaoSQL:29 - attempting to find accounts from DB
+2019-10-30 15:42:14 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:42:14 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:46:15 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 15:46:15 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 15:46:19 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 15:46:30 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 15:46:30 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 15:46:30 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 15:46:30 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:46:30 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:46:33 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:46:33 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-30 15:46:36 DEBUG AccountDaoSQL:29 - attempting to find accounts from DB
+2019-10-30 15:46:36 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 15:46:36 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 16:19:31 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 16:19:31 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 16:19:36 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 16:19:44 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 16:19:45 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 16:19:45 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 16:19:45 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 16:19:45 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 16:19:49 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.CloseAccountPrompt
+2019-10-30 16:19:49 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.CloseAccountPrompt
+2019-10-30 18:38:32 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 18:38:32 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 18:38:36 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 18:38:47 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 18:38:48 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 18:38:48 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 18:38:48 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 18:38:48 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 18:38:52 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.CloseAccountPrompt
+2019-10-30 18:38:52 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.CloseAccountPrompt
+2019-10-30 18:44:45 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 18:44:45 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 18:44:48 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 18:44:53 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 18:44:54 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 18:44:54 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 18:44:54 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 18:44:54 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 18:44:58 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.CloseAccountPrompt
+2019-10-30 18:44:58 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.CloseAccountPrompt
+2019-10-30 18:45:08 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 18:45:08 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 18:45:16 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 18:45:16 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 19:08:42 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 19:08:42 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 19:08:45 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 19:08:51 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 19:08:52 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 19:08:53 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 19:08:53 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:08:53 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:08:57 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 19:08:57 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 19:08:58 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:08:58 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:11:02 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 19:11:02 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 19:11:05 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 19:11:12 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 19:11:13 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 19:11:13 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 19:11:13 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:11:13 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:11:15 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 19:11:15 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 19:11:15 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:11:15 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:14:38 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 19:14:38 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 19:14:42 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 19:14:51 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 19:14:52 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 19:14:52 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 19:14:52 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:14:52 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:15:03 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 19:15:03 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 19:15:08 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:15:08 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:15:13 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-30 19:15:13 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 19:15:17 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 19:15:28 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 19:15:28 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 19:15:28 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 19:15:28 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 19:15:28 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 20:46:43 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 20:46:43 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 20:46:50 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 20:46:57 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 20:46:58 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 20:46:59 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 20:46:59 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 20:46:59 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 20:47:04 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.DepositPrompt
+2019-10-30 20:47:04 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.DepositPrompt
+2019-10-30 20:47:43 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 20:47:43 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 20:47:49 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 20:47:55 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 20:47:56 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 20:47:57 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 20:47:57 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 20:47:57 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 20:48:01 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.DepositPrompt
+2019-10-30 20:48:01 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.DepositPrompt
+2019-10-30 20:48:10 DEBUG TransactionDaoSQL:34 - attempting to log deposit to DB
+2019-10-30 20:48:10 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 20:48:10 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:07:20 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.DepositPrompt
+2019-10-30 21:07:20 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.DepositPrompt
+2019-10-30 21:08:58 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 21:08:58 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 21:10:14 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 21:10:14 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 21:10:19 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 21:10:25 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 21:10:26 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 21:10:27 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 21:10:27 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:10:27 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:10:31 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.DepositPrompt
+2019-10-30 21:10:31 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.DepositPrompt
+2019-10-30 21:10:41 DEBUG TransactionDaoSQL:34 - attempting to log deposit to DB
+2019-10-30 21:10:42 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:10:42 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:19:49 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 21:19:49 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 21:19:52 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 21:20:02 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 21:20:13 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 21:20:14 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 21:20:14 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:20:14 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:20:22 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.WithdrawPrompt
+2019-10-30 21:20:22 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.WithdrawPrompt
+2019-10-30 21:21:19 DEBUG TransactionDaoSQL:34 - attempting to log deposit to DB
+2019-10-30 21:21:19 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:21:19 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:23:27 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 21:23:27 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 21:23:31 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 21:23:38 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 21:23:39 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 21:23:39 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 21:23:39 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:23:39 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:23:43 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.WithdrawPrompt
+2019-10-30 21:23:43 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.WithdrawPrompt
+2019-10-30 21:23:56 DEBUG TransactionDaoSQL:34 - attempting to log deposit to DB
+2019-10-30 21:23:57 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:23:57 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:24:02 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 21:24:02 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 21:24:02 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 21:24:02 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:34:08 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 22:34:08 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 22:34:11 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 22:36:16 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 22:36:17 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 22:36:17 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 22:36:17 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:36:17 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:36:21 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:36:21 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:36:30 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:36:30 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:36:34 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:36:34 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:39:56 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:39:56 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:40:02 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:40:02 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:40:10 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:40:10 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:40:16 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 22:40:16 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 22:40:20 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 22:40:27 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 22:40:28 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 22:40:28 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 22:40:28 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:40:28 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:40:37 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:40:37 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:40:40 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:40:40 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:40:43 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:40:43 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:41:34 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 22:41:34 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 22:41:37 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 22:41:43 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 22:41:44 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 22:41:44 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 22:41:44 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:41:44 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:41:46 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:41:46 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:41:49 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:41:49 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:41:50 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:41:50 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:44:51 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 22:44:51 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 22:44:53 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 22:44:59 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 22:45:00 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 22:45:00 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 22:45:00 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:45:00 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:45:06 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:45:06 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:45:08 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:45:08 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:47:21 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 22:47:21 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 22:47:27 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 22:47:34 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 22:47:34 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 22:47:35 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 22:47:35 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:47:35 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:47:41 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:47:41 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:47:43 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:47:43 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:52:03 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-30 22:52:03 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-30 22:52:07 DEBUG LogInPrompt:27 - attempting to login
+2019-10-30 22:52:12 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-30 22:52:13 DEBUG UserDaoSQL:82 - connection check
+2019-10-30 22:52:13 INFO  LogInPrompt:39 - successfully logged in
+2019-10-30 22:52:13 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:52:13 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:52:15 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:52:15 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-30 22:52:18 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:52:18 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewTransactionsPrompt
+2019-10-30 22:52:23 DEBUG TransactionDaoSQL:100 - attempting to find transactions from DB
+2019-10-30 22:52:23 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-30 22:52:23 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-31 09:09:55 DEBUG BankDriver:13 - STARTING A NEW INSTANCE OF THE DRIVER-----------------------------------------------------------------------------------------
+2019-10-31 09:09:55 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
+2019-10-31 09:09:58 DEBUG LogInPrompt:27 - attempting to login
+2019-10-31 09:10:06 DEBUG UserDaoSQL:80 - attempting to find user by credentials from DB
+2019-10-31 09:10:07 DEBUG UserDaoSQL:82 - connection check
+2019-10-31 09:10:07 INFO  LogInPrompt:39 - successfully logged in
+2019-10-31 09:10:07 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-31 09:10:07 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-31 09:10:15 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-31 09:10:15 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.OpenAccountPrompt
+2019-10-31 09:10:31 DEBUG AccountDaoSQL:30 - attempting to find accounts from DB
+2019-10-31 09:10:31 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-31 09:10:31 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-31 09:11:10 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-31 09:11:10 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.ViewAccountPrompt
+2019-10-31 09:11:16 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-31 09:11:16 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-31 09:11:29 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.CloseAccountPrompt
+2019-10-31 09:11:29 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.CloseAccountPrompt
+2019-10-31 09:11:39 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.MainMenuPrompt
+2019-10-31 09:11:39 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.MainMenuPrompt
+2019-10-31 09:11:50 DEBUG BankDriver:17 - next prompt is of type: class com.revature.prompts.LogInPrompt
+2019-10-31 09:11:50 DEBUG BankDriver:15 - starting prompt of type: class com.revature.prompts.LogInPrompt
